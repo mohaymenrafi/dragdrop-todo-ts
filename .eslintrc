@@ -1,3 +1,6 @@
 {
-    "extends": [ "wesbos/typescript" ]
+  "extends": ["wesbos/typescript"],
+  "rules": {
+    "no-useless-return": "off"
+  }
 }
